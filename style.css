@@ -717,7 +717,7 @@ section {
 --------------------------------------------------------------*/
 
 .leaflet {
-    background: var(--color-pink);
+    background-image: linear-gradient(rgb(67, 172, 32), rgb(118, 223, 83));
     opacity: 0.7;
     padding: 80px 0;
 }
